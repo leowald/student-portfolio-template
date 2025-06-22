@@ -1,6 +1,6 @@
 # Portfolio: [Student Name]'s Contributions to [Project Name]
 
-Welcome! This repository showcases the work I completed as part of the team project during [Course Name].
+Welcome! This repository showcases the work I completed as part of the Yesh Tikvah Team Project.
 
 ---
 
@@ -9,13 +9,29 @@ Welcome! This repository showcases the work I completed as part of the team proj
 [Briefly describe the overall project. What is it? What problem does it solve? What technologies were used?]
 
 Example:  
-This project is a task management web application built with React, Node.js, and MongoDB. It allows users to create, assign, and track tasks in a team environment.
+This project makes use of modern web development to create a highly optimized sharing platform, both in terms of performance and exceptional user experience.
+his project is built with React, Node, headless Wordpress and uses the following technologies and libraries:
+
+Auth0
+Sass
+Bootstrap
+RadixUI
+React Router
+Axios
+JSON Server
+Express
+Docker Containers
+Vitest
+React Testing Library
+Storybook
+Docusaurus.io
 
 ---
 
 ## 👩‍💻 My Contributions
 
 Below is a summary of the specific tasks I worked on during the project, along with links to related pull requests (if available).
+Don't put the intro tasks here
 
 | Task Description                    | Technologies Used       | GitHub PR / Commit Link       |
 |-----------------------------------|------------------------|------------------------------|
@@ -80,8 +96,8 @@ app.post('/tasks', async (req, res) => {
 ## 📞 Contact & Verification
 
 For verification of this work or more details, please contact:  
-**Instructor:** [Instructor Name] — [instructor.email@example.com]  
-**Student:** [Your Email or LinkedIn]
+**Team Leader:** Leora Waldman — [instructor.email@example.com]  
+**Your Name:** [Your Email or LinkedIn]
 
 ---
 
